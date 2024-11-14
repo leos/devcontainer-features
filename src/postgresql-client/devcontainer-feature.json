@@ -13,7 +13,7 @@
                 "16",
                 "17"
             ],
-            "default": "14",
+            "default": "13",
             "description": "Select the major version of postgres"
         }
     },
