@@ -2,7 +2,7 @@
 
 # Maintainer: John Rowley
 
-TARGET_POSTGRESQL_VERSION="${VERSION:-"14"}"
+TARGET_POSTGRESQL_VERSION="${VERSION:-"13"}"
 
 set -e
 
